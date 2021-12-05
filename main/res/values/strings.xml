@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Expense</string>
+    <string name="city_promt">Choose a city</string>
+
+    <string-array name="city_arrays">
+        <item> Jaipur</item>
+        <item> Mumbai</item>
+    </string-array>
+
+</resources>
